@@ -11,7 +11,7 @@ Change the path of the input dataset. The code will read all videos in the folde
 
 In this coding file (Total (VSL)), there are 2 options:
 1. Train new.
-2. Train continuely from the model that was trained on the AUTSL dataset.
+2. Train continuously from the model that was trained on the AUTSL dataset.
 
 Uncomment the part of the code that you want to use.
 
