@@ -9,5 +9,14 @@ Download all the files and run the jupyter file Total (VSL). This file will do a
 
 Change the path of the input dataset. The code will read all videos in the folder.
 
+In this coding file (Total (VSL)), there are 2 options:
+1. Train new.
+2. Train continuely from the model that was trained on the AUTSL dataset.
+
+Uncomment the part of the code that you want to use.
+
+# Evaluation
+We use k-fold in this project with k is defined as 10. The 10 trained models will be stored in the "checkpoints" folder. The final output will print out the best accuracy.
+
 # Acknoledgement
 This project is built by iBME lab at Hanoi University of Science and Technology, Vietnam. 
